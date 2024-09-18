@@ -65,7 +65,7 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || 𝐶𝑟𝑒𝑎𝑡𝑜𝑟 = 𝙴𝙽𝚉𝙾_𝚃𝙴𝙲𝙷
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || YouTube Channel = https://Instagram.com/@_BERA_TECH?si=3cp6Y2r__cXZg-Wi
+❷ || YouTube Channel = https://www.instagram.com/enzokip254?igsh=YzljYTk1ODg3Zg==
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
 Wanna talk? http://wa.me/254784115308?
